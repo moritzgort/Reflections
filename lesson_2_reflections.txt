@@ -21,3 +21,10 @@ What are some situations when branches would be helpful in keeping your history 
 Branches are useful when you want to be able to quickly access your older (working) versions. You can imagine branches as splitting files into two. If you're satisfied with your branches you can merge them.
 
 ***
+
+How do the diagrams help you visualize the branch structure?
+
+It helps imagie the different branches because there can be multiple file versions side by side which can be complicated to imagine without diagrams.
+
+***
+
