@@ -9,3 +9,10 @@ How is the staging area different from the working directory and the repository?
 The staging area is something that takes a file to prepare it for the working directory.
 
 ***
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add your files from the working directory to the staging directory and from there on commit them. You can add a message that describes what you changed.
+
+***
+
