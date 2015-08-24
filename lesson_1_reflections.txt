@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped a lot because first of all you don't have to go through the whole file. You only have to read a small fraction of all lines, namely the ones that are changed. This way it was a very easy and quick process to spot the typo.
+
+***
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Cons: It's very dependend on the user; if the user forgets to commit, it won't happen which can cause problems while debugging
+
+Pros: You can decide by yourself whether or not it's the right time to commit. Additionally you are better than the computer at deciding whether or not a tool/function is finished.
+
+***
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+There are some pros and cons to both options. To save multiple files at once is very good for programs with multiple files. However it's harder to find on the changes you want to focus on in such an abundance of files.
+
+Saving files seperately give you a good overview of the file you're working on. The downside here is that it's harder to check/edit all the files efficiently.
+
+***
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows all the different commits you made. You can then take to of them and by writing git diff {Commit 1} {Commit 2} you can easily compare these two versions.
+
+****
+
+How might using version control make you more confident to make changes that could break something?
+
+It helps me to understand that everything I can do wrong can be reverted.
+
+****
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try using git as a version control for an iOS project. Therefore I want to learn how to save commits.
+
+*****
+
