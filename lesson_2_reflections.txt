@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create it, you need to do this in order to track different versions of your file(s).
+
+***
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is something that takes a file to prepare it for the working directory.
+
+***
