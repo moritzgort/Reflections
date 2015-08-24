@@ -16,3 +16,8 @@ You can add your files from the working directory to the staging directory and f
 
 ***
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are useful when you want to be able to quickly access your older (working) versions. You can imagine branches as splitting files into two. If you're satisfied with your branches you can merge them.
+
+***
