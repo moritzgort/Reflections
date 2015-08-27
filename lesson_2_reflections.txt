@@ -28,3 +28,9 @@ It helps imagie the different branches because there can be multiple file versio
 
 ***
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+To get the functionality of both of them! Because the coins branch gets merged into the master branch and the two are now one.
+
+***
+
