@@ -34,3 +34,17 @@ To get the functionality of both of them! Because the coins branch gets merged i
 
 ***
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of automatic merging:
+	Easy and quick
+Cons of automatic merging:
+	You can't be 100% sure that everything worked as you wanted.
+
+Pros of manual merging:
+	You can check for all kinds of errors and don't have to worry that much about coding errors
+Cons of automatic merging:
+	It takes a lot more time.
+
+***
+
