@@ -10,3 +10,8 @@ Maybe you want to change something at first or don’t even use the additional f
 
 ***
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks and Clones are almost the same. The only difference is when you fork a repository then you make a clone on GitHub. Cloning a repository means copying it to your hard drive. A branch is something very different. It’s a version of a file which is strongly interconnected with the other versions.
+
+***
