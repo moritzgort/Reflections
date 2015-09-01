@@ -22,3 +22,9 @@ That you have offline access when you don’t have any internet available.
 
 ***
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be very hard to keep track of all the files without Git. Additionally GitHub gives a great overview and extra features and functionality. There would be no upside in not using Git or GitHub in my opinion.
+
+***
+
