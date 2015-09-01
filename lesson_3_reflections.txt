@@ -28,3 +28,11 @@ It would be very hard to keep track of all the files without Git. Additionally G
 
 ***
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Using a separate branch is very useful for introducing a new feature hence it creates a totally new version which you can merge with master later on.
+
+However this is pretty time consuming and you can easily forget a step or mess things up. Therefore you should always be sure if you want to just create a new commit or a totally new branch.
+
+***
+
